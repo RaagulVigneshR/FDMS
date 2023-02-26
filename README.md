@@ -20,3 +20,13 @@ A Faculty Database Management System can be used in various educational institut
 ## Implementation and Adoption Considerations
 
 To successfully implement a Faculty Database Management System, educational institutions must choose the right system that meets their specific needs. Data migration and integration should be carefully planned and executed, and security and privacy concerns must be addressed. User training and support are also critical to ensure successful adoption and usage of the system.
+## Benefits and Outcomes
+A Faculty Database Management System offers many benefits, including improved efficiency and productivity, enhanced communication and collaboration, data-driven decision making, and better student outcomes and satisfaction. The system can also help educational institutions save time and reduce costs by automating administrative tasks and streamlining workflows.
+##TECHNOLOGY INCORPORATED
+- PYTHON 
+Used for the GUI and Implementation
+- SQL
+Used for BACKEND incorporation
+
+## Conclusion
+A Faculty Database Management System is a powerful tool that can help educational institutions improve their teaching quality and learning outcomes. The system offers many features that can help faculty members manage their workloads and better engage with students. By carefully considering implementation and adoption considerations, educational institutions can successfully adopt and benefit from a Faculty Database Management System.
