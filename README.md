@@ -1,5 +1,5 @@
 # FDMS
-## FACULTY DATABASE MANAGEMENT SYSTEM
+## Human Resources Management System for Faculty
 A Faculty Database Management System is a software application designed to manage and organize faculty-related data within an educational institution. The system allows faculty members to store, update, and access information related to courses, schedules, grading, and attendance in one centralized location.
 ## Features
 - Faculty Information Management: The system provides a platform for faculty members to manage their personal information such as contact details, academic background, and employment history.
